@@ -1,2 +1,2 @@
 # Haskell
-My refo with haskell task's
+My repo with haskell task's
